@@ -1,0 +1,41 @@
+body {
+    background-image: url("images/concrete_seamless.png");
+}
+
+.name {
+    background: #4aaaa5;
+}
+
+.back {
+    background: #ffffff;
+}
+
+nav a {
+    text-align: center;
+}
+
+.pageHead {
+    margin-left: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.myPic {
+    margin: 2rem 0 1rem 2rem;
+}
+
+.main {
+
+}
+
+.navbar {
+    padding: 0;
+}
+
+.uLine {
+    border-bottom: 1px solid black;
+}
+
+.topMarg {
+    margin-top: 3rem;
+}
