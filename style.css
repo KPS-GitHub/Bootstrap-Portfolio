@@ -45,6 +45,14 @@ nav a {
     margin-top: 3rem;
 }
 
+.smTopMarg {
+    margin-top: 1rem;
+}
+
+.botMarg {
+    margin-bottom: 3rem;
+}
+
 .botPad {
     padding-bottom: 2rem;
 }
@@ -69,4 +77,23 @@ footer {
 
 .portPic {
     margin: 2rem 1rem;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    width: 100%;
+    background: #4aaaa5;
+    color: #ffffff;
+    padding-top: 1rem;
+}
+
+.projLinks {
+    text-decoration: none;
+    color: #ffffff!important;
 }
