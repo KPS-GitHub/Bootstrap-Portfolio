@@ -4,6 +4,9 @@ body {
 
 .name {
     background: #4aaaa5;
+    padding: 1rem 3rem;
+    font-size: 2rem;
+    color: #ffffff!important;
 }
 
 .back {
@@ -18,6 +21,7 @@ nav a {
     margin-left: 3rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    color: #4aaaa5;
 }
 
 .myPic {
@@ -25,17 +29,44 @@ nav a {
 }
 
 .main {
-
+    padding: 0 2rem;
+    border: 2px solid #cccccc;
 }
 
 .navbar {
     padding: 0;
 }
 
-.uLine {
-    border-bottom: 1px solid black;
+.botBorder {
+    border-bottom: 2px solid #cccccc;
 }
 
 .topMarg {
     margin-top: 3rem;
+}
+
+.botPad {
+    padding-bottom: 2rem;
+}
+
+.foot {
+    background: #4aaaa5;
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    z-index: 2;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    z-index: 1;
+    background: #555;
+}
+
+.portPic {
+    margin: 2rem 1rem;
 }
