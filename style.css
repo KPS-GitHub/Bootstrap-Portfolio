@@ -97,3 +97,11 @@ footer {
     text-decoration: none;
     color: #ffffff!important;
 }
+
+.btn-primary {
+    background: #4aaaa5;
+}
+
+.btn-primary:hover {
+    background: #4aaaa5;
+}
